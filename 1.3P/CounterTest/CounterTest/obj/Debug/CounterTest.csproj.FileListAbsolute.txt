@@ -1,0 +1,7 @@
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\obj\Debug\CounterTest.csprojAssemblyReference.cache
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\obj\Debug\CounterTest.csproj.CoreCompileInputs.cache
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\bin\Debug\CounterTest.exe.config
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\obj\Debug\CounterTest.exe
+C:\Users\Klim\Documents\Code\1.3P\CounterTest\CounterTest\obj\Debug\CounterTest.pdb

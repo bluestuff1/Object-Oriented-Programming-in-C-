@@ -1,0 +1,15 @@
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\obj\Debug\P3.2.csprojAssemblyReference.cache
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\obj\Debug\P3.2.csproj.CoreCompileInputs.cache
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\P3.2.exe.config
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\P3.2.exe
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\P3.2.pdb
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\obj\Debug\P3.2.exe
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\obj\Debug\P3.2.pdb
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\nunit.framework.dll
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\nunit.framework.pdb
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\nunit.framework.xml
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\obj\Debug\P3.2.csproj.CopyComplete
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\nunit.engine.dll
+C:\Users\Klim\Documents\Code\3.2P\P3.2\P3.2\bin\Debug\nunit.engine.api.dll

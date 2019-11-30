@@ -1,0 +1,5 @@
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.Core\obj\Debug\Swin-Adventure.Core.csproj.CoreCompileInputs.cache
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.Core\bin\Debug\Swin-Adventure.Core.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.Core\bin\Debug\Swin-Adventure.Core.pdb
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.Core\obj\Debug\Swin-Adventure.Core.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.Core\obj\Debug\Swin-Adventure.Core.pdb

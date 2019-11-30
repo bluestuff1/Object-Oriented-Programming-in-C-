@@ -1,0 +1,17 @@
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.csprojAssemblyReference.cache
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.AssemblyInfo.cs
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.deps.json
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.runtimeconfig.json
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.runtimeconfig.dev.json
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.pdb
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.Core.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\bin\Debug\netcoreapp2.1\Swin-Adventure.Core.pdb
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.csproj.CopyComplete
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.dll
+C:\Users\Klim\Documents\Code\9.2D\Swin-Adventure\Swin-Adventure.UnitTests\obj\Debug\netcoreapp2.1\Swin-Adventure.UnitTests.pdb
